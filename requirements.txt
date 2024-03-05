@@ -31,7 +31,6 @@ disco==1.40.4
 docutils==0.17.1
 docutils==0.17.1
 elasticsearch==8.12.1
-faiss==1.5.3
 fastai==2.7.14
 fastapi==0.110.0
 fastparquet==2024.2.0
